@@ -1,2 +1,2 @@
 # Agenda
-Agenda criada durante o curso
+Agenda de contatos
